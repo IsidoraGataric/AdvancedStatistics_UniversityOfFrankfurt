@@ -1,9 +1,9 @@
 ########### **Reminder:** ###########
 
-1. *Data set* -- I'll send you that .txt file via e-mail.
-2. *Linear Mixed-Effect Regression (LMER)* -- lmer_vld.txt
-3. *Linear Mixed-Effect Regression (GLMER)* -- glmer_vld.txt
-4. *Data visualization* -- graphs_vld.txt
+1. *Data set* -- vld_final.txt.
+2. *Linear Mixed-Effect Regression (LMER)* -- lmer_vld.txt.
+3. *Linear Mixed-Effect Regression (GLMER)* -- glmer_vld.txt.
+4. *Data visualization* -- graphs_vld.txt.
 
 ########### **Reminder:** ###########
 
