@@ -7,4 +7,4 @@
 
 ########### **Reminder:** ###########
 
-Details about research and data set: https://github.com/IsidoraGataric/VisualLexicalDecisionTask_LMER_GLMER_GAMMs and http://primenjena.psihologija.ff.uns.ac.rs/index.php/pp/article/view/2171/2137.
+Details about this data set and the research related to it: https://github.com/IsidoraGataric/VisualLexicalDecisionTask_LMER_GLMER_GAMMs and http://primenjena.psihologija.ff.uns.ac.rs/index.php/pp/article/view/2171/2137.
